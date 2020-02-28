@@ -17,15 +17,15 @@ categories:
  I need to talk to him more frequently and regularly. If I can solve this problem before my QE,
  I will have 100% confidence to pass it.
 
- 2. Combine different methods
+2. Combine different methods
 
   **Plan:** OM2 as ground state MD and GFN-xTB as production
 
   **Ground state MD Energy**  
-  ![GFN_energy](/image/new143energy.png)
+  ![GFN_energy](/blog//image/new143energy.png)
 
   GFN *GFN has more energy levels*
-  ![OM2_energy](/image/143energy.png)
+  ![OM2_energy](/blog//image/143energy.png)
 
   OM2 methods
 
@@ -36,11 +36,11 @@ categories:
 1. Get a stable spectrum with less MD times
 
 **Production MD #fragments**
-  ![GFN_fragment](/image/newversion143.png)
+  ![GFN_fragment](/blog/image/newversion143.png)
 
   GFN *GFN has longer simulation time*
 
-  ![OM2_fragment](/image/143fragments.png)
+  ![OM2_fragment](/blog/image/143fragments.png)
 
   OM2 methods
 

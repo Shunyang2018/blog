@@ -5,7 +5,7 @@ date:   2020-03-02
 categories: Coding Tips
 ---
 Previously, we calculated mass and rounded them into integer in our mass spectrum calculation. Nowadays, the accurate mass calculation becomes more important, but at the same time the method use array index to save mass as integer won't be appropriate. Under this condition, I decide to use hash table to work as dictionary to save mass and intensity as key-value pair.
-
+The project is on my [github/plotmsv8](https://github.com/Shunyang2018/QCEIMS-analysis/tree/master/plotmsv8)
 I found an example on [website](https://github.com/pdebuyl/fortran_hash_table). Here are several problems I encountered:
 
 ## Make

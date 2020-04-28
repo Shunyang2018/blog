@@ -49,7 +49,7 @@ allocate(character(16) :: key_list(2))
 ### Data type conversion (Float, String, Integer):
 Fortran uses internal I/O to convert data type. Here are some [reference](https://www.eng-tips.com/viewthread.cfm?qid=4337).
 
-{% highlight fortran %}
+<pre><code>
 program convert
   implicit NONE
   real*8 float1, float2,a
@@ -66,7 +66,7 @@ program convert
   print *, float2
   print *, char1
 end
-{% endhighlight %}
+</code></pre>
 
 
 
